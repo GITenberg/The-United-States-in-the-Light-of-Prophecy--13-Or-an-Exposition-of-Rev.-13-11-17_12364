@@ -1,0 +1,24 @@
+_repo: The-United-States-in-the-Light-of-Prophecy--13-Or-an-Exposition-of-Rev.-13-11-17_12364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Uriah
+    birthdate: 1832
+    deathdate: 1903
+    gutenberg_agent_id: '4338'
+    url: http://www.gutenberg.org/2009/agents/4338
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Revelation XIII, 11-17 -- Prophecies'
+- !lcc 'BS'
+- GITenberg
+title: "The United States in the Light of Prophecy\r\nOr, an Exposition of Rev. 13:11-17"
+url: http://www.gutenberg.org/ebooks/12364
